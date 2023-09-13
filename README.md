@@ -16,7 +16,7 @@
 
 * ##### [Lucide](https://lucide.dev)
 
-* ##### [Tailwindcss](https://tailwindcss.com)
+* ##### [Tailwind CSS](https://tailwindcss.com)
 
 
 
