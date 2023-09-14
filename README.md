@@ -71,6 +71,10 @@
 
 ```pnpm prisma migrate dev```
 
-5. #### Executar o comando para iniciar o back-end
+5. #### Executar o comando para popular o select de prompt
+
+```pnpm prisma db seed```
+
+6. #### Executar o comando para iniciar o back-end
 
 ```pnpm run dev```
